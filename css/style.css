@@ -1,0 +1,7 @@
+.alert.alert-success, .alert.alert-danger
+{
+    width: 50%;
+    margin: auto;
+    font-size: x-large;
+    text-align: center;
+}
